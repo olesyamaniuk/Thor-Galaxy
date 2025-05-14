@@ -399,6 +399,7 @@ a {
 }
 
 .e-i-why-container {
+  background: rgba(16, 48, 76, 1);
   width: 375px;
   margin: auto;
   padding: 24px;
@@ -606,6 +607,7 @@ a {
   margin: auto;
   padding: 24px;
   width: 375px;
+  background: rgba(16, 48, 76, 1);
 }
 .e-i-features-list {
   padding-top: 24px;
